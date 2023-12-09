@@ -10,7 +10,7 @@ T maximum(T* Arr,int a) {
 		{
 			buf = Arr[i];
 		}
-	}
+	} 
 	return buf;
 }
 template <typename T>
